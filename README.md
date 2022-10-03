@@ -10,7 +10,7 @@
 - Framework para desenvolvimento da API: [Spring Boot 2.4.0](https://spring.io/projects/spring-boot)
 - Servidor de Aplicação: [Apache Tomcat 9.0](http://tomcat.apache.org/)
 - Testes da API RESTful: [Postman](https://www.getpostman.com/) 
-- Banco de dados: [PostgreSQL](https://www.h2database.com/html/main.html](https://www.postgresql.org/)
+- Banco de dados: [PostgreSQL](https://www.postgresql.org/)
 	
 	*Aplicação rodando
 	URL Base: http://localhost:8080/h2-console/
